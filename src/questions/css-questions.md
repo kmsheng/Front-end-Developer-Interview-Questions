@@ -4,7 +4,7 @@ layout: layouts/page.njk
 permalink: /questions/css-questions/index.html
 ---
 
-* What is CSS selector specificity and how does it work?
+* [What is CSS selector specificity and how does it work?](../answers/Answers-To-CSS-Questions/1-What-is-CSS-selector-specificity-and-how-does-it-work.md)
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
 * Describe z-index and how stacking context is formed.
