@@ -5,5 +5,6 @@ I prefer Normalizing because default style like font size of headings is pretty 
 
 ### References:
  - https://medium.com/@DaphneWatson/css-normalize-css-reset-which-one-do-you-prefer-6e8cc593ac41
+ - http://nicolasgallagher.com/about-normalize-css/
  - https://meyerweb.com/eric/tools/css/reset/
  - https://github.com/necolas/normalize.css/
