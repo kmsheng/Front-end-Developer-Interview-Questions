@@ -10,6 +10,10 @@ z-index sets the stack order of a positioned element. The element with greater s
 
 [Stacking context demo](https://codepen.io/kmsheng/pen/PLadOK)
 
+Above image describes the stacking order and there are also other two rules:
+ - In the same condition, the one with greater z-index is closer to the user
+ - When z-indices are the same, the one comes later in HTML is on top.
+
 <img src="../../assets/images/stacking-context.png" alt="" width="300" />
 
 [Stacking context demo 2](https://codepen.io/kmsheng/pen/drKKem)
