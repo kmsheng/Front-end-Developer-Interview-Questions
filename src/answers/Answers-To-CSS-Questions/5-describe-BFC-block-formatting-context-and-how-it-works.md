@@ -5,7 +5,7 @@ BFC is the region which the layout of block boxes occurs and in which floats int
  - Collapsing of parent element
  - Margin collapsing
  
-## A block formatting context is created by at least one of the following
+## BFC is created by at least one of the following
 
  - the root element or something that contains it
  - floats (elements where float is not none)
