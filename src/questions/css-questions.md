@@ -10,7 +10,7 @@ permalink: /questions/css-questions/index.html
 * [Describe z-index and how stacking context is formed.](../answers/Answers-To-CSS-Questions/4-Describe-z-index-and-how-stacking-context-is-formed.md)
 * [Describe BFC (Block Formatting Context) and how it works.](../answers/Answers-To-CSS-Questions/5-describe-BFC-block-formatting-context-and-how-it-works.md)
 * [What are the various clearing techniques and which is appropriate for what context?](../answers/Answers-To-CSS-Questions/6-What-are-the-various-clearing-techniques-and-which-is-appropriate-for-what-context.md)
-* How would you approach fixing browser-specific styling issues?
+* [How would you approach fixing browser-specific styling issues?](../answers/Answers-To-CSS-Questions/7-How-would-you-approach-fixing-browser-specific-styling-issues.md)
 * How do you serve your pages for feature-constrained browsers?
   * What techniques/processes do you use?
 * What are the different ways to visually hide content (and make it available only for screen readers)?
