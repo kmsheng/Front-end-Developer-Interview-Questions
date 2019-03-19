@@ -8,7 +8,7 @@ permalink: /questions/css-questions/index.html
 * [What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?](../answers/Answers-To-CSS-Questions/2-Whats-the-difference-between-resetting-and-normalizing-CSS-Which-would-you-choose-and-why.md)
 * [Describe Floats and how they work.](../answers/Answers-To-CSS-Questions/3-describe-floats-and-how-they-work.md)
 * [Describe z-index and how stacking context is formed.](../answers/Answers-To-CSS-Questions/4-Describe-z-index-and-how-stacking-context-is-formed.md)
-* Describe BFC (Block Formatting Context) and how it works.
+* [Describe BFC (Block Formatting Context) and how it works.](../answers/Answers-To-CSS-Questions/5-describe-BFC-block-formatting-context-and-how-it-works.md)
 * What are the various clearing techniques and which is appropriate for what context?
 * How would you approach fixing browser-specific styling issues?
 * How do you serve your pages for feature-constrained browsers?
