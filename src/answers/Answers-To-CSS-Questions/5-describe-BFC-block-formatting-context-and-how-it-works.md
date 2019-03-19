@@ -2,7 +2,7 @@
 BFC is the region which the layout of block boxes occurs and in which floats interact with other elements.
 
 ## BFC solves two major problems
- - Collapsing of parent element
+ - Parent element collapsing
  - Margin collapsing
  
 ## BFC is created by at least one of the following
