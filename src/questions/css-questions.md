@@ -25,7 +25,7 @@ permalink: /questions/css-questions/index.html
 * [Explain how a browser determines what elements match a CSS selector.](../answers/Answers-To-CSS-Questions/17-Explain-how-a-browser-determines-what-elements-match-a-CSS-selector.md)
 * [Describe pseudo-elements and discuss what they are used for.](../answers/Answers-To-CSS-Questions/18-Describe-pseudo-elements-and-discuss-what-they-are-used-for.md)
 * [Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.](../answers/Answers-To-CSS-Questions/19-Explain-your-understanding-of-the-box-model-and-how-you-would-tell-the-browser-in-CSS-to-render-your-layout-in-different-box-models.md)
-* What does ```* { box-sizing: border-box; }``` do? What are its advantages?
+* [What does ```* { box-sizing: border-box; }``` do? What are its advantages?](../answers/Answers-To-CSS-Questions/20-What-does-box-sizing-border-box-do-What-are-its-advantages.md)
 * What is the CSS `display` property and can you give a few examples of its use?
 * What's the difference between inline and inline-block?
 * What's the difference between the "nth-of-type()" and "nth-child()" selectors?
