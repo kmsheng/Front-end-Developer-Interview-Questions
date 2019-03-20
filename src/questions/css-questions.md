@@ -17,7 +17,7 @@ permalink: /questions/css-questions/index.html
 * [Have you ever used a grid system, and if so, what do you prefer?](../answers/Answers-To-CSS-Questions/10-Have-you-ever-used-a-grid-system-and-if-so-what-do-you-prefer.md)
 * [Have you used or implemented media queries or mobile specific layouts/CSS?](../answers/Answers-To-CSS-Questions/11-Have-you-used-or-implemented-media-queries-or-mobile-specific-layoutsCSS.md)
 * [Are you familiar with styling SVG?](../answers/Answers-To-CSS-Questions/12-Are-you-familiar-with-styling-SVG.md)
-* Can you give an example of an `@media` property other than `screen`?
+* [Can you give an example of an `@media` property other than `screen`?](../answers/Answers-To-CSS-Questions/13-Can-you-give-an-example-of-an-media-property-other-than-screen.md)
 * What are some of the "gotchas" for writing efficient CSS?
 * What are the advantages/disadvantages of using CSS preprocessors?
   * Describe what you like and dislike about the CSS preprocessors you have used.
