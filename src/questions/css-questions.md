@@ -21,7 +21,7 @@ permalink: /questions/css-questions/index.html
 * [What are some of the "gotchas" for writing efficient CSS?](../answers/Answers-To-CSS-Questions/14-What-are-some-of-the-gotchas-for-writing-efficient-CSS.md)
 * [What are the advantages/disadvantages of using CSS preprocessors?](../answers/Answers-To-CSS-Questions/15-What-are-the-advantagesdisadvantages-of-using-CSS-preprocessors.md)
   * [Describe what you like and dislike about the CSS preprocessors you have used.](../answers/Answers-To-CSS-Questions/15-What-are-the-advantagesdisadvantages-of-using-CSS-preprocessors.md)
-* How would you implement a web design comp that uses non-standard fonts?
+* [How would you implement a web design comp that uses non-standard fonts?](../answers/Answers-To-CSS-Questions/16-How-would-you-implement-a-web-design-comp-that-uses-non-standard-fonts.md)
 * Explain how a browser determines what elements match a CSS selector.
 * Describe pseudo-elements and discuss what they are used for.
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
