@@ -24,7 +24,7 @@ permalink: /questions/css-questions/index.html
 * [How would you implement a web design comp that uses non-standard fonts?](../answers/Answers-To-CSS-Questions/16-How-would-you-implement-a-web-design-comp-that-uses-non-standard-fonts.md)
 * [Explain how a browser determines what elements match a CSS selector.](../answers/Answers-To-CSS-Questions/17-Explain-how-a-browser-determines-what-elements-match-a-CSS-selector.md)
 * [Describe pseudo-elements and discuss what they are used for.](../answers/Answers-To-CSS-Questions/18-Describe-pseudo-elements-and-discuss-what-they-are-used-for.md)
-* Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+* [Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.](../answers/Answers-To-CSS-Questions/19-Explain-your-understanding-of-the-box-model-and-how-you-would-tell-the-browser-in-CSS-to-render-your-layout-in-different-box-models.md)
 * What does ```* { box-sizing: border-box; }``` do? What are its advantages?
 * What is the CSS `display` property and can you give a few examples of its use?
 * What's the difference between inline and inline-block?
