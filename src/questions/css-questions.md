@@ -23,7 +23,7 @@ permalink: /questions/css-questions/index.html
   * [Describe what you like and dislike about the CSS preprocessors you have used.](../answers/Answers-To-CSS-Questions/15-What-are-the-advantagesdisadvantages-of-using-CSS-preprocessors.md)
 * [How would you implement a web design comp that uses non-standard fonts?](../answers/Answers-To-CSS-Questions/16-How-would-you-implement-a-web-design-comp-that-uses-non-standard-fonts.md)
 * [Explain how a browser determines what elements match a CSS selector.](../answers/Answers-To-CSS-Questions/17-Explain-how-a-browser-determines-what-elements-match-a-CSS-selector.md)
-* Describe pseudo-elements and discuss what they are used for.
+* [Describe pseudo-elements and discuss what they are used for.](../answers/Answers-To-CSS-Questions/17-Explain-how-a-browser-determines-what-elements-match-a-CSS-selector.md)
 * Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
 * What does ```* { box-sizing: border-box; }``` do? What are its advantages?
 * What is the CSS `display` property and can you give a few examples of its use?
