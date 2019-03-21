@@ -29,7 +29,7 @@ permalink: /questions/css-questions/index.html
 * [What is the CSS `display` property and can you give a few examples of its use?](../answers/Answers-To-CSS-Questions/21-What-is-the-CSS-display-property-and-can-you-give-a-few-examples-of-its-use.md)
 * [What's the difference between inline and inline-block?](../answers/Answers-To-CSS-Questions/22-Whats-the-difference-between-inline-and-inline-block.md)
 * [What's the difference between the "nth-of-type()" and "nth-child()" selectors?](../answers/Answers-To-CSS-Questions/23-Whats-the-difference-between-the-nth-of-type-and-nth-child-selectors.md)
-* What's the difference between a relative, fixed, absolute and statically positioned element?
+* [What's the difference between a relative, fixed, absolute and statically positioned element?](../answers/Answers-To-CSS-Questions/24-Whats-the-difference-between-a-relative-fixed-absolute-and-statically-positioned-element.md)
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 * Have you played around with the new CSS Flexbox or Grid specs?
 * Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?
