@@ -4,6 +4,14 @@
 Default position value, all elements are in order as they appear in the document.
 
 ## position: relative
+With `relative` position, `left`, `right`, `top` and `bottom` can be set to itself.
+The positioning will be relative to itself.
+
+<img src="../../assets/images/position-relative.png" alt="position relative" width="150" />
+
+Elements that are around it will be placed based on its original position (Without top value).
+
+[position relative demo](https://codepen.io/kmsheng/pen/EMdGzG)
 
 ## position: absolute
 It allows you to place your element precisely where you want it, but it will be limited if its parent has `relative` position.
