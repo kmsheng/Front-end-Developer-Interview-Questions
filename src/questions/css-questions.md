@@ -28,7 +28,7 @@ permalink: /questions/css-questions/index.html
 * [What does ```* { box-sizing: border-box; }``` do? What are its advantages?](../answers/Answers-To-CSS-Questions/20-What-does-box-sizing-border-box-do-What-are-its-advantages.md)
 * [What is the CSS `display` property and can you give a few examples of its use?](../answers/Answers-To-CSS-Questions/21-What-is-the-CSS-display-property-and-can-you-give-a-few-examples-of-its-use.md)
 * [What's the difference between inline and inline-block?](../answers/Answers-To-CSS-Questions/22-Whats-the-difference-between-inline-and-inline-block.md)
-* What's the difference between the "nth-of-type()" and "nth-child()" selectors?
+* [What's the difference between the "nth-of-type()" and "nth-child()" selectors?](../answers/Answers-To-CSS-Questions/23-Whats-the-difference-between-the-nth-of-type-and-nth-child-selectors.md)
 * What's the difference between a relative, fixed, absolute and statically positioned element?
 * What existing CSS frameworks have you used locally, or in production? How would you change/improve them?
 * Have you played around with the new CSS Flexbox or Grid specs?
