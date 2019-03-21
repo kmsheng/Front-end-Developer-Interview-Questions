@@ -26,7 +26,7 @@ permalink: /questions/css-questions/index.html
 * [Describe pseudo-elements and discuss what they are used for.](../answers/Answers-To-CSS-Questions/18-Describe-pseudo-elements-and-discuss-what-they-are-used-for.md)
 * [Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.](../answers/Answers-To-CSS-Questions/19-Explain-your-understanding-of-the-box-model-and-how-you-would-tell-the-browser-in-CSS-to-render-your-layout-in-different-box-models.md)
 * [What does ```* { box-sizing: border-box; }``` do? What are its advantages?](../answers/Answers-To-CSS-Questions/20-What-does-box-sizing-border-box-do-What-are-its-advantages.md)
-* What is the CSS `display` property and can you give a few examples of its use?
+* [What is the CSS `display` property and can you give a few examples of its use?](../answers/Answers-To-CSS-Questions/21-What-is-the-CSS-display-property-and-can-you-give-a-few-examples-of-its-use.md)
 * What's the difference between inline and inline-block?
 * What's the difference between the "nth-of-type()" and "nth-child()" selectors?
 * What's the difference between a relative, fixed, absolute and statically positioned element?
