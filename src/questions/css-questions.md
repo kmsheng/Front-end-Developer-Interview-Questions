@@ -34,4 +34,4 @@ permalink: /questions/css-questions/index.html
 * [Have you played around with the new CSS Flexbox or Grid specs?](../answers/Answers-To-CSS-Questions/26-Have-you-played-around-with-the-new-CSS-Flexbox-or-Grid-specs.md)
 * [Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?](../answers/Answers-To-CSS-Questions/27-Can-you-explain-the-difference-between-coding-a-web-site-to-be-responsive-versus-using-a-mobile-first-strategy.md)
 * [Have you ever worked with retina graphics? If so, when and what techniques did you use?](../answers/Answers-To-CSS-Questions/28-Have-you-ever-worked-with-retina-graphics-If-so-when-and-what-techniques-did-you-use.md)
-* Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
+* [Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?](../answers/Answers-To-CSS-Questions/29-Is-there-any-reason-youd-want-to-use-translate-instead-of-absolute-positioning-or-vice-versa-And-why.md)
