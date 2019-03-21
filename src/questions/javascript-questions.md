@@ -4,7 +4,7 @@ layout: layouts/page.njk
 permalink: /questions/javascript-questions/index.html
 ---
 
-* Explain event delegation.
+* [Explain event delegation.](../../answers/Answers-To-JavaScript-Questions/1-Explain-event-delegation.md)
 * Explain how `this` works in JavaScript.
   * Can you give an example of one of the ways that working with `this` has changed in ES6?
 * Explain how prototypal inheritance works.
