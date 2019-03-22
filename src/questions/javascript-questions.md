@@ -17,7 +17,7 @@ permalink: /questions/javascript-questions/index.html
 * [What's the difference between host objects and native objects?](../answers/Answers-To-JavaScript-Questions/10-Whats-the-difference-between-host-objects-and-native-objects.md)
 * [Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?](../answers/Answers-To-JavaScript-Questions/11-Explain-the-difference-between-function-Person-var-person-Person-and-var-person-new-Person.md)
 * [Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`](../answers/Answers-To-JavaScript-Questions/12-Explain-the-differences-on-the-usage-of-foo-between-function-foo-and-var-foo-function.md)
-* Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?
+* [Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?](../answers/Answers-To-JavaScript-Questions/13-Can-you-explain-what-Functioncall-and-Functionapply-do-Whats-the-notable-difference-between-the-two.md)
 * Explain `Function.prototype.bind`.
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain "hoisting".
