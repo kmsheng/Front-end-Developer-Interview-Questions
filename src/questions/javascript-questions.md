@@ -12,7 +12,7 @@ permalink: /questions/javascript-questions/index.html
   * [How would you go about checking for any of these states?](../answers/Answers-To-JavaScript-Questions/5-Whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared.md)
 * [What is a closure, and how/why would you use one?](../answers/Answers-To-JavaScript-Questions/6-What-is-a-closure-and-howwhy-would-you-use-one.md)
 * [What language constructions do you use for iterating over object properties and array items?](../answers/Answers-To-JavaScript-Questions/7-What-language-constructions-do-you-use-for-iterating-over-object-properties-and-array-items.md)
-* Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?
+* [Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?](../answers/Answers-To-JavaScript-Questions/8-Can-you-describe-the-main-difference-between-the-ArrayforEach-loop-and-Arraymap-methods-and-why-you-would-pick-one-versus-the-other.md)
 * What's a typical use case for anonymous functions?
 * What's the difference between host objects and native objects?
 * Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
