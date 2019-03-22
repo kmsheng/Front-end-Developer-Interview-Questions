@@ -4,4 +4,5 @@ The notable differnece is `Function.apply` takes second argument as an array, th
 
 ```js
 Math.min.apply(null, [3, 1, 2]);
+Math.min.call(null, 3, 1, 2);
 ```
