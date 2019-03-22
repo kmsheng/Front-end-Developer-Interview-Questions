@@ -11,6 +11,8 @@ People.prototype.speak = function() {
   console.log('Hello, my name is ' + this.name)
 };
 
+console.log(People.hasOwnProperty('name'));    // true, name is defined in function People, not its prototype
+
 const p = new People('Alice');    // Create people instance
 
 console.log(p.name);    // Alice
