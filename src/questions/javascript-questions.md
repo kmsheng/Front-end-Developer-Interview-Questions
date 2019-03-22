@@ -7,7 +7,7 @@ permalink: /questions/javascript-questions/index.html
 * [Explain event delegation.](../answers/Answers-To-JavaScript-Questions/1-Explain-event-delegation.md)
 * [Explain how `this` works in JavaScript.](../answers/Answers-To-JavaScript-Questions/2-Explain-how-this-works-in-JavaScript.md)
   * [Can you give an example of one of the ways that working with `this` has changed in ES6?](../answers/Answers-To-JavaScript-Questions/2-Explain-how-this-works-in-JavaScript.md)
-* Explain how prototypal inheritance works.
+* [Explain how prototypal inheritance works.](../answers/Answers-To-JavaScript-Questions/3-Explain-how-prototypal-inheritance-works.md)
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
 * What is a closure, and how/why would you use one?
