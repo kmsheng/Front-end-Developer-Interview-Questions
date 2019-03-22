@@ -22,3 +22,5 @@ arr.map(function(x) {
 // es6 way
 arr.map(x => x * x);
 ```
+
+Use anonymous function fairly, because it's hard to debug in a stack trace.
