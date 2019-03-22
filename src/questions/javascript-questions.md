@@ -8,8 +8,8 @@ permalink: /questions/javascript-questions/index.html
 * [Explain how `this` works in JavaScript.](../answers/Answers-To-JavaScript-Questions/2-Explain-how-this-works-in-JavaScript.md)
   * [Can you give an example of one of the ways that working with `this` has changed in ES6?](../answers/Answers-To-JavaScript-Questions/2-Explain-how-this-works-in-JavaScript.md)
 * [Explain how prototypal inheritance works.](../answers/Answers-To-JavaScript-Questions/3-Explain-how-prototypal-inheritance-works.md)
-* What's the difference between a variable that is: `null`, `undefined` or undeclared?
-  * How would you go about checking for any of these states?
+* [What's the difference between a variable that is: `null`, `undefined` or undeclared?](../answers/Answers-To-JavaScript-Questions/5-Whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared.md)
+  * [How would you go about checking for any of these states?](../answers/Answers-To-JavaScript-Questions/5-Whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared.md)
 * What is a closure, and how/why would you use one?
 * What language constructions do you use for iterating over object properties and array items?
 * Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?
