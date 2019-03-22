@@ -40,5 +40,5 @@ let Computer = {
 
 let obj = Object.create(Computer);
 
-console.log('here', obj.__proto__);    // { brand: 'Apple' }
+console.log(obj.__proto__);    // { brand: 'Apple' }
 ```
