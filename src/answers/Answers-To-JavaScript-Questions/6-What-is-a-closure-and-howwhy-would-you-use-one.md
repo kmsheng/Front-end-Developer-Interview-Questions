@@ -57,3 +57,4 @@ console.log('adder2: ', adder2.getNum());    // adder2: 1
 ```
 
 ### References
+ - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
