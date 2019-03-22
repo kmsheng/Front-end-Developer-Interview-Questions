@@ -10,7 +10,7 @@ permalink: /questions/javascript-questions/index.html
 * [Explain how prototypal inheritance works.](../answers/Answers-To-JavaScript-Questions/3-Explain-how-prototypal-inheritance-works.md)
 * [What's the difference between a variable that is: `null`, `undefined` or undeclared?](../answers/Answers-To-JavaScript-Questions/5-Whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared.md)
   * [How would you go about checking for any of these states?](../answers/Answers-To-JavaScript-Questions/5-Whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared.md)
-* What is a closure, and how/why would you use one?
+* [What is a closure, and how/why would you use one?](../answers/Answers-To-JavaScript-Questions/6-What-is-a-closure-and-howwhy-would-you-use-one.md)
 * What language constructions do you use for iterating over object properties and array items?
 * Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?
 * What's a typical use case for anonymous functions?
