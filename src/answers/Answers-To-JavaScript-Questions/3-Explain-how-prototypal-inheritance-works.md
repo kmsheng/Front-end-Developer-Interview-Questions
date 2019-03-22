@@ -26,7 +26,7 @@ console.log(p.test);
 // Is p.__proto__.test defined ? No
 // Is p.__proto__.__proto__.test defined ?  Yes
 
-console.log(p.__proto__.__proto__ === Object.prototype);    // true
+console.log(p.__proto__.__proto__ === Object.prototype);    // true, all objects inherit methods and properties from Object.prototype
 ```
 
 ## Object.create
