@@ -14,6 +14,7 @@ People.prototype.speak = function() {
 const p = new People('Alice');    // Create people instance
 
 console.log(p.name);    // Alice
+console.log(p instanceof People);    // true, Alice is an instance of People
 p.speak();
 
 Object.prototype.test = 'test';    // Set a test property to Object.prototype
