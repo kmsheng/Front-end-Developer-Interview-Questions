@@ -14,7 +14,7 @@ permalink: /questions/javascript-questions/index.html
 * [What language constructions do you use for iterating over object properties and array items?](../answers/Answers-To-JavaScript-Questions/7-What-language-constructions-do-you-use-for-iterating-over-object-properties-and-array-items.md)
 * [Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?](../answers/Answers-To-JavaScript-Questions/8-Can-you-describe-the-main-difference-between-the-ArrayforEach-loop-and-Arraymap-methods-and-why-you-would-pick-one-versus-the-other.md)
 * [What's a typical use case for anonymous functions?](../answers/Answers-To-JavaScript-Questions/9-Whats-a-typical-use-case-for-anonymous-functions.md)
-* What's the difference between host objects and native objects?
+* [What's the difference between host objects and native objects?](../answers/Answers-To-JavaScript-Questions/10-Whats-the-difference-between-host-objects-and-native-objects.md)
 * Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
 * Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?
