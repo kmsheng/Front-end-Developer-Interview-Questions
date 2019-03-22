@@ -11,5 +11,5 @@ const v3 = null;
 
 console.log(typeof v2);    // "undefined"
 console.log(typeof null);    // "object", beware of this
-console.log(v3 === null);  // true
+console.log(v3 === null);    // true
 ```
