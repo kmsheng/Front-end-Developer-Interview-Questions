@@ -25,3 +25,16 @@ console.log(p.test);
 
 console.log(p.__proto__.__proto__ === Object.prototype);    // true
 ```
+
+## Object.create
+Another way to create inheritance is to use Object.create
+
+```js
+let Computer = {
+  brand: 'Apple'
+};
+
+let obj = Object.create(Computer);
+
+console.log('here', obj.__proto__);    // { brand: 'Apple' }
+```
