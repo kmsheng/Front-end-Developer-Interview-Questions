@@ -21,3 +21,6 @@ if (navigator.userAgent.indexOf("MSIE 7") > -1) {
     // do something
 }
 ```
+
+### References
+ - https://stackoverflow.com/questions/20104930/whats-the-difference-between-feature-detection-feature-inference-and-using-th
