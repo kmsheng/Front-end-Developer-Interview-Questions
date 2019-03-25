@@ -23,7 +23,7 @@ permalink: /questions/javascript-questions/index.html
 * [Explain "hoisting".](../answers/Answers-To-JavaScript-Questions/16-Explain-hoisting.md)
 * [Describe event bubbling.](../answers/Answers-To-JavaScript-Questions/17-Event-bubbling.md)
 * [Describe event capturing.](../answers/Answers-To-JavaScript-Questions/18-Event-capturing.md)
-* What's the difference between an "attribute" and a "property"?
+* [What's the difference between an "attribute" and a "property"?](../answers/Answers-To-JavaScript-Questions/19-Whats-the-difference-between-an-attribute-and-a-property.md)
 * What are the pros and cons of extending built-in JavaScript objects?
 * What is the difference between `==` and `===`?
 * Explain the same-origin policy with regards to JavaScript.
