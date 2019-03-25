@@ -25,7 +25,9 @@ var a = 1;
 var func = function() {
 };
 ```
+
 <br>
+
 Named functions will be hoisted with their "implementation details".
 
 ```js
@@ -39,6 +41,7 @@ function add(a, b) {
 ```
 
 <br>
+
 Named functions have higher hoisting priority than variables.
 
 ```js
@@ -50,6 +53,7 @@ var a = 1;
 ```
 
 <br>
+
 Re-declaration might be a little weird this way
 
 ```js
