@@ -9,6 +9,7 @@ In JavaScript, accessing an undefined variable will get a `ReferenceError`.
 ```js
 console.log(a);    // ReferenceError: a is not defined.
 ```
+
 <br>
 Accessing variables which are declared later will not raise an error,
 
