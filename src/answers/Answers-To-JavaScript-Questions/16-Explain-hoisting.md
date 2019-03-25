@@ -1,6 +1,6 @@
 # Explain "hoisting".
-`hoisting` is a special behavior of how JavaScript interpreter processes variables and functions.
-JavaScript engine will register declarations to `variable object` during compilation phase.
+ - `hoisting` is a special behavior of how JavaScript interpreter processes variables and functions.
+ - JavaScript engine stores declarations to `variable object` during compilation phase and then process them in execution phase.
 
 <br>
 
