@@ -25,7 +25,7 @@ permalink: /questions/javascript-questions/index.html
 * [Describe event capturing.](../answers/Answers-To-JavaScript-Questions/18-Event-capturing.md)
 * [What's the difference between an "attribute" and a "property"?](../answers/Answers-To-JavaScript-Questions/19-Whats-the-difference-between-an-attribute-and-a-property.md)
 * [What are the pros and cons of extending built-in JavaScript objects?](../answers/Answers-To-JavaScript-Questions/20-What-are-the-pros-and-cons-of-extending-built-in-JavaScript-objects.md)
-* What is the difference between `==` and `===`?
+* [What is the difference between `==` and `===`?](../answers/Answers-To-JavaScript-Questions/21-What-is-the-difference-between-abstract-equality-comparison-and-strict-equality-comparison.md)
 * Explain the same-origin policy with regards to JavaScript.
 * Why is it called a Ternary operator, what does the word "Ternary" indicate?
 * What is strict mode? What are some of the advantages/disadvantages of using it?
