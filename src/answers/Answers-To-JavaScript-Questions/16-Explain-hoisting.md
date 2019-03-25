@@ -40,3 +40,4 @@ function add(a, b) {
 ### References
  - https://blog.techbridge.cc/2018/11/10/javascript-hoisting/
  - https://john-dugan.com/hoisting-in-javascript/
+ - https://blog.crimx.com/2015/03/29/javascript-hoist-under-the-hood/
