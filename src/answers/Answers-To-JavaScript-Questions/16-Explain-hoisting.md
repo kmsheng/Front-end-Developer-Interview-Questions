@@ -37,6 +37,37 @@ function add(a, b) {
 }
 ```
 
+<br>
+Named function has higher hoisting priority than variables.
+
+```js
+console.log(a);    // function() {}
+
+function a() {
+}
+var a = 1;
+```
+
+<br>
+Re-declaration might be a little weird this way
+
+```js
+var a = 1;
+var a;
+console.log(a);    // a is 1, not undefined
+```
+
+Above example can be treated as
+
+```js
+var a;
+var a;
+a = 1;
+console.log(a);
+```
+
+Because variable declaration and assignment are processed separately in different phases.
+
 ### References
  - https://blog.techbridge.cc/2018/11/10/javascript-hoisting/
  - https://john-dugan.com/hoisting-in-javascript/
