@@ -28,7 +28,7 @@ permalink: /questions/javascript-questions/index.html
 * [What is the difference between `==` and `===`?](../answers/Answers-To-JavaScript-Questions/21-What-is-the-difference-between-abstract-equality-comparison-and-strict-equality-comparison.md)
 * [Explain the same-origin policy with regards to JavaScript.](../answers/Answers-To-JavaScript-Questions/22-Explain-the-same-origin-policy-with-regards-to-JavaScript.md)
 * [Why is it called a Ternary operator, what does the word "Ternary" indicate?](../answers/Answers-To-JavaScript-Questions/23-Why-is-it-called-a-Ternary-operator-what-does-the-word-Ternary-indicate.md)
-* What is strict mode? What are some of the advantages/disadvantages of using it?
+* [What is strict mode? What are some of the advantages/disadvantages of using it?](../answers/Answers-To-JavaScript-Questions/24-What-is-strict-mode-What-are-some-of-the-advantagesdisadvantages-of-using-it.md)
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What tools and techniques do you use debugging JavaScript code?
 * Explain the difference between mutable and immutable objects.
