@@ -38,7 +38,7 @@ function add(a, b) {
 ```
 
 <br>
-Named function has higher hoisting priority than variables.
+Named functions have higher hoisting priority than variables.
 
 ```js
 console.log(a);    // function() {}
