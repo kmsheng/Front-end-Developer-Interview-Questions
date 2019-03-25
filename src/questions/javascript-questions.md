@@ -24,7 +24,7 @@ permalink: /questions/javascript-questions/index.html
 * [Describe event bubbling.](../answers/Answers-To-JavaScript-Questions/17-Event-bubbling.md)
 * [Describe event capturing.](../answers/Answers-To-JavaScript-Questions/18-Event-capturing.md)
 * [What's the difference between an "attribute" and a "property"?](../answers/Answers-To-JavaScript-Questions/19-Whats-the-difference-between-an-attribute-and-a-property.md)
-* What are the pros and cons of extending built-in JavaScript objects?
+* [What are the pros and cons of extending built-in JavaScript objects?](../answers/Answers-To-JavaScript-Questions/20-What-are-the-pros-and-cons-of-extending-built-in-JavaScript-objects.md)
 * What is the difference between `==` and `===`?
 * Explain the same-origin policy with regards to JavaScript.
 * Why is it called a Ternary operator, what does the word "Ternary" indicate?
