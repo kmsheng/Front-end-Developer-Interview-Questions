@@ -20,7 +20,7 @@ permalink: /questions/javascript-questions/index.html
 * [Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?](../answers/Answers-To-JavaScript-Questions/13-Can-you-explain-what-Functioncall-and-Functionapply-do-Whats-the-notable-difference-between-the-two.md)
 * [Explain `Function.prototype.bind`.](../answers/Answers-To-JavaScript-Questions/14-Explain-Function-prototype-bind.md)
 * [What's the difference between feature detection, feature inference, and using the UA string?](../answers/Answers-To-JavaScript-Questions/15-Whats-the-difference-between-feature-detection-feature-inference-and-using-the-UA-string.md)
-* Explain "hoisting".
+* [Explain "hoisting".](../answers/Answers-To-JavaScript-Questions/16-Explain-hoisting.md)
 * Describe event bubbling.
 * Describe event capturing.
 * What's the difference between an "attribute" and a "property"?
