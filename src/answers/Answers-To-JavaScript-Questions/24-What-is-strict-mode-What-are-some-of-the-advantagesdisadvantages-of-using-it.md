@@ -1,9 +1,13 @@
 # What is strict mode ? What are some of the advantages/disadvantages of using it ?
 
-Strict mode allows you to
+Advantages of strict mode are
  - Throw some JavaScript errors that were silent.
  - Fix mistakes that is difficult to JavaScript Engine, sometimes JavaScript runs faster in strict mode.
  - Prohibits some syntax that is likely to be defined in future version of ECMAScript.
+ 
+ Disadvantages are
+  - `IE 6-9` and some old browsers does not support it.
+  - Some old JavaScript libraries might not support it.
  
  ```js
  'use strict';    // strict mode for entire script
