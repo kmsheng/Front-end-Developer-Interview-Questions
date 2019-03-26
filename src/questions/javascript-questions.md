@@ -35,7 +35,7 @@ permalink: /questions/javascript-questions/index.html
   * [What is an example of an immutable object in JavaScript?](../answers/Answers-To-JavaScript-Questions/27-Explain-the-difference-between-mutable-and-immutable-objects.md)
   * [What are the pros and cons of immutability?](../answers/Answers-To-JavaScript-Questions/27-Explain-the-difference-between-mutable-and-immutable-objects.md)
   * [How can you achieve immutability in your own code?](../answers/Answers-To-JavaScript-Questions/27-Explain-the-difference-between-mutable-and-immutable-objects.md)
-* [Explain the difference between synchronous and asynchronous functions.](../answers/Answers-To-JavaScript-Questions/29-Explain-the-difference-between-synchronous-and-asynchronous-functions.md)
+* [Explain the difference between synchronous and asynchronous functions.](../answers/Answers-To-JavaScript-Questions/28-Explain-the-difference-between-synchronous-and-asynchronous-functions.md)
 * What is event loop?
   * What is the difference between call stack and task queue?
 * What are the differences between variables created using `let`, `var` or `const`?
