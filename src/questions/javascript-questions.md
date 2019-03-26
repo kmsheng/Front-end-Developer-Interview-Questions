@@ -36,8 +36,8 @@ permalink: /questions/javascript-questions/index.html
   * [What are the pros and cons of immutability?](../answers/Answers-To-JavaScript-Questions/27-Explain-the-difference-between-mutable-and-immutable-objects.md)
   * [How can you achieve immutability in your own code?](../answers/Answers-To-JavaScript-Questions/27-Explain-the-difference-between-mutable-and-immutable-objects.md)
 * [Explain the difference between synchronous and asynchronous functions.](../answers/Answers-To-JavaScript-Questions/28-Explain-the-difference-between-synchronous-and-asynchronous-functions.md)
-* What is event loop?
-  * What is the difference between call stack and task queue?
+* [What is event loop?](../answers/Answers-To-JavaScript-Questions/29-What-is-event-loop.md)
+  * [What is the difference between call stack and task queue?](../answers/Answers-To-JavaScript-Questions/29-What-is-event-loop.md)
 * What are the differences between variables created using `let`, `var` or `const`?
 * What are the differences between ES6 class and ES5 function constructors?
 * Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?
