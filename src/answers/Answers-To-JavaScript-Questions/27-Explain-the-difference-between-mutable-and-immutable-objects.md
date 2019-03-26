@@ -3,7 +3,7 @@
 - `immutable` objects create / return new object for every modification.
 
 ## What is an example of an immutable object in JavaScript ?
- - `Array.prototype.slice` is immutable, because it returns new copy of array every time.
+ - `Array.prototype.slice` is immutable, because everytime it returns a new copy of array.
  - [Immutable.js](https://github.com/immutable-js/immutable-js)
 
 ## What are the pros and cons of immutability ?
