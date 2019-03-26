@@ -1,7 +1,7 @@
 # Explain the difference between synchronous and asynchronous functions.
 
-`synchronous` function waits for each operation to complete, after that it only executes the next operation.
-`asynchronous` function does not wait for each operation to complete, so the callbacks are not guaranteed to be in order.
+ - `synchronous` function waits for each operation to complete, after that it only executes the next operation.
+ - `asynchronous` function does not wait for each operation to complete, so the callbacks are not guaranteed to be in order.
 
 ```js
 console.log('first');
