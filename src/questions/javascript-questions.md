@@ -30,7 +30,7 @@ permalink: /questions/javascript-questions/index.html
 * [Why is it called a Ternary operator, what does the word "Ternary" indicate?](../answers/Answers-To-JavaScript-Questions/23-Why-is-it-called-a-Ternary-operator-what-does-the-word-Ternary-indicate.md)
 * [What is strict mode? What are some of the advantages/disadvantages of using it?](../answers/Answers-To-JavaScript-Questions/24-What-is-strict-mode-What-are-some-of-the-advantagesdisadvantages-of-using-it.md)
 * [What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?](../answers/Answers-To-JavaScript-Questions/25-What-are-some-of-the-advantagesdisadvantages-of-writing-JavaScript-code-in-a-language-that-compiles-to-JavaScript.md)
-* What tools and techniques do you use debugging JavaScript code?
+* [What tools and techniques do you use debugging JavaScript code?](../answers/Answers-To-JavaScript-Questions/26-What-tools-and-techniques-do-you-use-debugging-JavaScript-code.md)
 * Explain the difference between mutable and immutable objects.
   * What is an example of an immutable object in JavaScript?
   * What are the pros and cons of immutability?
