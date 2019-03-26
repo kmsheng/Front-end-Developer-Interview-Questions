@@ -38,7 +38,7 @@ permalink: /questions/javascript-questions/index.html
 * [Explain the difference between synchronous and asynchronous functions.](../answers/Answers-To-JavaScript-Questions/28-Explain-the-difference-between-synchronous-and-asynchronous-functions.md)
 * [What is event loop?](../answers/Answers-To-JavaScript-Questions/29-What-is-event-loop.md)
   * [What is the difference between call stack and task queue?](../answers/Answers-To-JavaScript-Questions/29-What-is-event-loop.md)
-* What are the differences between variables created using `let`, `var` or `const`?
+* [What are the differences between variables created using `let`, `var` or `const`?](../answers/Answers-To-JavaScript-Questions/30-What-are-the-differences-between-variables-created-using-let-var-or-const.md)
 * What are the differences between ES6 class and ES5 function constructors?
 * Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?
 * What advantage is there for using the arrow syntax for a method in a constructor?
