@@ -9,7 +9,7 @@
 ## What are the pros and cons of immutability ?
 Pros
  - programs that are written with immutability are easier to refactor and easier to maintain.
- - Less side effect
+ - Less side effect.
  
 Cons
  - Sometimes writing immutability code can be complicated and tricky with pure JavaScript.
