@@ -5,3 +5,4 @@
 
 ### References
  - https://travishorn.com/why-it-is-better-to-serve-site-assets-from-multiple-domains-972a2bf69d71
+ - https://www.quora.com/Traditionally-why-has-it-been-better-to-serve-site-assets-from-multiple-domains
