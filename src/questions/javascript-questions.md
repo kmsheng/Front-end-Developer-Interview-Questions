@@ -40,7 +40,7 @@ permalink: /questions/javascript-questions/index.html
   * [What is the difference between call stack and task queue?](../answers/Answers-To-JavaScript-Questions/29-What-is-event-loop.md)
 * [What are the differences between variables created using `let`, `var` or `const`?](../answers/Answers-To-JavaScript-Questions/30-What-are-the-differences-between-variables-created-using-let-var-or-const.md)
 * [What are the differences between ES6 class and ES5 function constructors?](../answers/Answers-To-JavaScript-Questions/31-What-are-the-differences-between-ES6-class-and-ES5-function-constructors.md)
-* Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?
+* [Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?](../answers/Answers-To-JavaScript-Questions/32-Can-you-offer-a-use-case-for-the-new-arrow-function-syntax-How-does-this-new-syntax-differ-from-other-functions.md)
 * What advantage is there for using the arrow syntax for a method in a constructor?
 * What is the definition of a higher-order function?
 * Can you give an example for destructuring an object or an array?
