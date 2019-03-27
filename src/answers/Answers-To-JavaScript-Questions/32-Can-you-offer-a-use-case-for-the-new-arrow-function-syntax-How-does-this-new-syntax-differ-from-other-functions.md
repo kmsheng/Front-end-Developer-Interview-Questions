@@ -5,7 +5,7 @@ const double = x => x * x;
 
 const toObj = x => ({x});    // omits return keyword
 
-const funcCreator = x => y => y;
+const getFunc = x => y => y;
 ```
 
 - arrow function can omit the argument parentheses `()` when the argument is less than 2
