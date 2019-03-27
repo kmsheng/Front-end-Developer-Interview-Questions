@@ -9,6 +9,8 @@ const obj = {...oldObj};
 // const obj = Object.assign({}, oldObj);
 ```
 
+rest operator is used for function argument and array / object destructuring.
+
 ```js
 function(firstArg, ...rest) {
 }
