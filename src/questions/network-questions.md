@@ -4,7 +4,7 @@ layout: layouts/page.njk
 permalink: /questions/network-questions/index.html
 ---
 
-* Traditionally, why has it been better to serve site assets from multiple domains?
+* [Traditionally, why has it been better to serve site assets from multiple domains?](../answers/Answers-To-Network-Questions/1-Traditionally-why-has-it-been-better-to-serve-site-assets-from-multiple-domains.md)
 * Do your best to describe the process from the time you type in a website's URL to it finishing loading on your screen.
 * What are the differences between Long-Polling, Websockets and Server-Sent Events?
 * Explain the following request and response headers:
