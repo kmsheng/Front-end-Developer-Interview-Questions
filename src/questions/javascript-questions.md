@@ -46,7 +46,7 @@ permalink: /questions/javascript-questions/index.html
 * [Can you give an example for destructuring an object or an array?](../answers/Answers-To-JavaScript-Questions/35-Can-you-give-an-example-for-destructuring-an-object-or-an-array.md)
 * [Can you give an example of generating a string with ES6 Template Literals?](../answers/Answers-To-JavaScript-Questions/36-Can-you-give-an-example-of-generating-a-string-with-ES6-Template-Literals.md)
 * [Can you give an example of a curry function and why this syntax offers an advantage?](../answers/Answers-To-JavaScript-Questions/37-Can-you-give-an-example-of-a-curry-function-and-why-this-syntax-offers-an-advantage.md)
-* What are the benefits of using `spread syntax` and how is it different from `rest syntax`?
+* [What are the benefits of using `spread syntax` and how is it different from `rest syntax`?](../answers/Answers-To-JavaScript-Questions/38-What-are-the-benefits-of-using-spread-syntax-and-how-is-it-different-from-rest-syntax.md)
 * How can you share code between files?
 * Why you might want to create static class members?
 
