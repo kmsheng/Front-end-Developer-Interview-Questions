@@ -42,7 +42,7 @@ permalink: /questions/javascript-questions/index.html
 * [What are the differences between ES6 class and ES5 function constructors?](../answers/Answers-To-JavaScript-Questions/31-What-are-the-differences-between-ES6-class-and-ES5-function-constructors.md)
 * [Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?](../answers/Answers-To-JavaScript-Questions/32-Can-you-offer-a-use-case-for-the-new-arrow-function-syntax-How-does-this-new-syntax-differ-from-other-functions.md)
 * [What advantage is there for using the arrow syntax for a method in a constructor?](../answers/Answers-To-JavaScript-Questions/33-What-advantage-is-there-for-using-the-arrow-syntax-for-a-method-in-a-constructor.md)
-* What is the definition of a higher-order function?
+* [What is the definition of a higher-order function?](../answers/Answers-To-JavaScript-Questions/34-What-is-the-definition-of-a-higher-order-function.md)
 * Can you give an example for destructuring an object or an array?
 * Can you give an example of generating a string with ES6 Template Literals?
 * Can you give an example of a curry function and why this syntax offers an advantage?
