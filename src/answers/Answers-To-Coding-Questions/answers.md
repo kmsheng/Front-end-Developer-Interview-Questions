@@ -130,6 +130,10 @@ Promise.resolve().then(function() {
 console.log('four');
 ```
 
+one, four, three, two
+Note: call stack -> micro task queue ( promise ) -> task queue ( setTimeout )
+
+
 Question: What is the difference between these four promises?
 ```javascript
 doSomething().then(function () {
@@ -143,4 +147,18 @@ doSomething().then(function () {
 doSomething().then(doSomethingElse());
 
 doSomething().then(doSomethingElse);
+```
+
+```javascript
+doSomething().then(function () {
+  return doSomethingElse();  // here's a return
+});    // so it can chain with next function
+
+doSomething().then(function () {
+  doSomethingElse();  // no return
+});    // cannot chain with next function
+
+doSomething().then(doSomethingElse());  // doSomethingElse should return a function for then to call
+
+doSomething().then(doSomethingElse);  // doSomethingElse itself should be a function
 ```
