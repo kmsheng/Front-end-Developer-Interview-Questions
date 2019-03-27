@@ -71,11 +71,14 @@ Question: What value is returned from the following statement?
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
 ```
+`"goh angasal a m'i"`
 
 Question: What is the value of `window.foo`?
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 ```
+
+`"bar"`
 
 Question: What is the outcome of the two alerts below?
 ```javascript
@@ -87,6 +90,9 @@ var foo = "Hello";
 alert(foo + bar);
 ```
 
+alert with "Hello World" and get ReferenceError: bar is not defined
+
+
 Question: What is the value of `foo.length`?
 ```javascript
 var foo = [];
@@ -94,12 +100,22 @@ foo.push(1);
 foo.push(2);
 ```
 
+`2`
+
 Question: What is the value of `foo.x`?
 ```javascript
 var foo = {n: 1};
 var bar = foo;
 foo.x = foo = {n: 2};
 ```
+
+undefined, because JavaScript engine will evaluate all the left hand side expression before right hand expression.
+The process of evaluating `foo.x = foo = {n: 2};`: 
+- Evaluate left hand expression `({n: 1}).x = (foo = {n: 2})`
+- Evaluate right hand expression, variable `foo` is assigned with `{n: 2}`
+- Evaluate right hand expression, `({n: 1}).x` is assigned with `{n: 2}`
+- Since variable `foo` has no property x, therefore the result of `foo.x` is undefined
+
 
 Question: What does the following code print?
 ```javascript
