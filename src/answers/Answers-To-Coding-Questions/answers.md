@@ -132,7 +132,7 @@ console.log('four');
 
 one, four, three, two
 Note: call stack -> micro task queue ( promise ) -> task queue ( setTimeout )
-
+Reference: https://github.com/dwqs/blog/issues/61
 
 Question: What is the difference between these four promises?
 ```javascript
