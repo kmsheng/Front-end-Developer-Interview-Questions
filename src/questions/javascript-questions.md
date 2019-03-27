@@ -48,7 +48,7 @@ permalink: /questions/javascript-questions/index.html
 * [Can you give an example of a curry function and why this syntax offers an advantage?](../answers/Answers-To-JavaScript-Questions/36-Can-you-give-an-example-of-a-curry-function-and-why-this-syntax-offers-an-advantage.md)
 * [What are the benefits of using `spread syntax` and how is it different from `rest syntax`?](../answers/Answers-To-JavaScript-Questions/37-What-are-the-benefits-of-using-spread-syntax-and-how-is-it-different-from-rest-syntax.md)
 * [How can you share code between files?](../answers/Answers-To-JavaScript-Questions/38-How-can-you-share-code-between-files.md)
-* Why you might want to create static class members?
+* [Why you might want to create static class members?](../answers/Answers-To-JavaScript-Questions/39-Why-you-might-want-to-create-static-class-members.md)
 
 ## Coding questions
 * Make this work:
