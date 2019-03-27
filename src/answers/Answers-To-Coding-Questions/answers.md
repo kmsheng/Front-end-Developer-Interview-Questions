@@ -116,6 +116,7 @@ The process of evaluating `foo.x = foo = {n: 2};`:
 - Evaluate right hand expression, `({n: 1}).x` is assigned with `{n: 2}`
 - Since variable `foo` has no property x, therefore the result of `foo.x` is undefined
 
+Reference: http://es5.github.io/#x11.13.1
 
 Question: What does the following code print?
 ```javascript
