@@ -49,34 +49,3 @@ permalink: /questions/javascript-questions/index.html
 * [What are the benefits of using `spread syntax` and how is it different from `rest syntax`?](../answers/Answers-To-JavaScript-Questions/37-What-are-the-benefits-of-using-spread-syntax-and-how-is-it-different-from-rest-syntax.md)
 * [How can you share code between files?](../answers/Answers-To-JavaScript-Questions/38-How-can-you-share-code-between-files.md)
 * [Why you might want to create static class members?](../answers/Answers-To-JavaScript-Questions/39-Why-you-might-want-to-create-static-class-members.md)
-
-## Coding questions
-* Make this work:
-```javascript
-duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
-```
-
-```js
-function duplicate(arr) {
-  return arr.concat(arr);
-}
-```
-
-* Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
-
-```js
-for (let i = 1; i <= 100; i++) {
-  const isThreeMultiple = (i % 3) === 0;
-  const isFiveMultiple = (i % 5) === 0;
-
-  if (isThreeMultiple && isFiveMultiple) {
-    console.log('fizzbuzz');
-  }
-  else if (isThreeMultiple) {
-    console.log('fizz');
-  }
-  else if (isFiveMultiple) {
-    console.log('buzz');
-  }
-}
-```
