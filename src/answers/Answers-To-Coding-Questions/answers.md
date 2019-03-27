@@ -38,16 +38,33 @@ Question: What is the value of `foo`?
 ```javascript
 var foo = 10 + '20';
 ```
+string `'1020'`, because the `+` sign will convert 10 to string.
 
 Question: What will be the output of the code below?
 ```javascript
 console.log(0.1 + 0.2 == 0.3);
 ```
+false, because 0.1 + 0.2 will be 0.30000000000000004 due to the float precision problem of JavaScript.
 
 Question: How would you make this work?
 ```javascript
 add(2, 5); // 7
 add(2)(5); // 7
+```
+
+```
+function curry(func) {
+  return (...args) => {
+    if (args.length >= func.length) {
+      return func(...args);
+    }
+    return curry(func.bind(null, ...args));
+  };
+}
+function addNumbers(a, b) {
+  return a + b;
+}
+const add = curry(addNumbers);
 ```
 
 Question: What value is returned from the following statement?
