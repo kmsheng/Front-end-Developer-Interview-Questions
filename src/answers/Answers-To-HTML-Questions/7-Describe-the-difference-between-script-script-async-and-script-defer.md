@@ -13,7 +13,7 @@
 </body>
 </html>
 ```
-## With `async` Attribute
+## `async` Attribute
  - Start parsing HTML.
  - If there're script tags with async attribute, script fetching and HTML parsing can process at the same time.
  - Pause HTML parsing when script executes.
@@ -30,7 +30,7 @@
 
 [`async` attribute does not support in IE <= 9](https://caniuse.com/#search=async)
 
-## With `defer` Attribute
+## `defer` Attribute
 `defer` is similar to `async`, but execute script when HTML parsing completes.
 
 ```html
