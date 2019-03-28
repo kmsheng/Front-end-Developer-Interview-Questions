@@ -23,7 +23,8 @@ For example
 Specify the encoding that is used to safely transfer the data to user.
 
 ## ETag
-
+Another value other than time to validate the cache's freshness. The spec does not tell how to generate the value.
+Usually it's a hash like value.
 
 ## X-Frame-Options
 
