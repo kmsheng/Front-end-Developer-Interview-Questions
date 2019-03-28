@@ -27,6 +27,11 @@ Another value other than time to validate the cache's freshness. The spec does n
 Usually it's a hash like value.
 
 ## X-Frame-Options
+A response header that tells whether or not a browser should render a page in `<frame>`, `<iframe>`, `<embed>` or `<object>`. 
+
+ - Specify `deny` value if you don't want anyone to embed your website.
+ - `sameorigin` means it can be embded in the same domain.
+ - `allow-from uri` specifies origin which can embed your website.
 
 ### References
  - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
