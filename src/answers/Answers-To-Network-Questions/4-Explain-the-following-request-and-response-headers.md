@@ -11,6 +11,7 @@
 
 ## Cache-Control
 It's a header with many directives which is used in both requests and responses.
+
 For example
 
 <img src="../../assets/images/cache-control.png" alt="cache-control demo" width="300" />
