@@ -1,4 +1,4 @@
-# What are data- attributes good for ?
+# What are `data-` attributes good for ?
 `data-` attribute allow users to store their own information on the template without naming conflicts with standard attributes.
 
 ### References
