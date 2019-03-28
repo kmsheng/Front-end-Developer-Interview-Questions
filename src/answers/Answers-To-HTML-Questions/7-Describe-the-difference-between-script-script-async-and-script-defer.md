@@ -28,6 +28,8 @@
 </html>
 ```
 
+[`async` attribute does not support in IE <= 9](https://caniuse.com/#search=async)
+
 ## With `defer` Attribute
 `defer` is similar to `async`, but execute script when HTML parsing completes.
 
@@ -39,6 +41,8 @@
 </body>
 </html>
 ```
+
+[`defer` attribute does not support in IE <= 9](https://github.com/h5bp/lazyweb-requests/issues/42)
 
 ### References
  - https://bitsofco.de/async-vs-defer/
