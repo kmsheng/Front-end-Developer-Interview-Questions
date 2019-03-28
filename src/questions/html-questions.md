@@ -9,7 +9,7 @@ permalink: /questions/html-questions/index.html
 * [What kind of things must you be wary of when design or developing for multilingual sites?](../answers/Answers-To-HTML-Questions/3-What-kind-of-things-must-you-be-wary-of-when-design-or-developing-for-multilingual-sites.md)
 * [What are `data-` attributes good for?](../answers/Answers-To-HTML-Questions/4-What-are-data-attributes-good-for.md)
 * [Consider HTML5 as an open web platform. What are the building blocks of HTML5?](../answers/Answers-To-HTML-Questions/5-Consider-HTML5-as-an-open-web-platform-What-are-the-building-blocks-of-HTML5.md)
-* Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+* [Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.](../answers/Answers-To-HTML-Questions/6-Describe-the-difference-between-a-cookie-sessionStorage-and-localStorage.md)
 * Describe the difference between `<script>`, `<script async>` and `<script defer>`.
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 * What is progressive rendering?
