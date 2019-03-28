@@ -15,4 +15,4 @@ permalink: /questions/network-questions/index.html
   * [ETag](../answers/Answers-To-Network-Questions/4-Explain-the-following-request-and-response-headers.md)
   * [X-Frame-Options](../answers/Answers-To-Network-Questions/4-Explain-the-following-request-and-response-headers.md)
 * [What are HTTP methods? List all HTTP methods that you know, and explain them.](../answers/Answers-To-Network-Questions/5-What-are-HTTP-methods-List-all-HTTP-methods-that-you-know-and-explain-them.md)
-* What is domain pre-fetching and how does it help with performance?
+* [What is domain pre-fetching and how does it help with performance?](../answers/Answers-To-Network-Questions/6-What-is-domain-pre-fetching-and-how-does-it-help-with-performance.md)
