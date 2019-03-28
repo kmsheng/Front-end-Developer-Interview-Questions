@@ -10,6 +10,13 @@
  - a.k.a `DNT` header that represents a user's tracking preference.
 
 ## Cache-Control
+It's a header with many directives which is used in both requests and responses.
+For example
+
+<img src="../../assets/images/cache-control.png" alt="cache-control demo" width="300" />
+
+ - `public` means the resource is public and can be cached by any cache.
+ - `max-age` indicates how long this resource is considered fresh.
 
 ## Transfer-Encoding
 
