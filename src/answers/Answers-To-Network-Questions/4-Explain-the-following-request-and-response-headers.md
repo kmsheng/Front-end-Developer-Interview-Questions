@@ -16,14 +16,18 @@ For example
 
 <img src="../../assets/images/cache-control.png" alt="cache-control demo" width="300" />
 
- - `public` means the resource is public and can be cached by any cache.
+ - `public` means the resource is public which can be cached by any cache and can be used by others.
  - `max-age` indicates how long this resource is considered fresh.
 
 ## Transfer-Encoding
+Specify the encoding that is used to safely transfer the data to user.
 
 ## ETag
+
 
 ## X-Frame-Options
 
 ### References
  - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+ - https://gist.github.com/CMCDragonkai/6bfade6431e9ffb7fe88
+ - https://blog.othree.net/log/2012/12/22/cache-control-and-etag/
