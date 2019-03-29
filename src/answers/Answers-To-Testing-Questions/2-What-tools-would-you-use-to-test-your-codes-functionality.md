@@ -2,11 +2,12 @@
  
 Unit Test
  - mocha
+ - jasmine
  - chai
- - Sinon
- 
- E2E
+ - sinon
+ - should
  - jest
  - PhantomJS
  - selenium
- 
+ - enzyme
+ - ava
