@@ -20,7 +20,7 @@ permalink: /questions/general-questions/index.html
 * [How many resources will a browser download from a given domain at a time?](../answers/Answers-To-General-Questions/14-How-many-resources-will-a-browser-download-from-a-given-domain-at-a-time.md)
   * [What are the exceptions?](../answers/Answers-To-General-Questions/14-How-many-resources-will-a-browser-download-from-a-given-domain-at-a-time.md)
 * [Name 3 ways to decrease page load (perceived or actual load time).](../answers/Answers-To-General-Questions/15-Name-3-ways-to-decrease-page-load-perceived-or-actual-load-time.md)
-* If you jumped on a project and they used tabs and you used spaces, what would you do?
+* [If you jumped on a project and they used tabs and you used spaces, what would you do?](../answers/Answers-To-General-Questions/16-If-you-jumped-on-a-project-and-they-used-tabs-and-you-used-spaces-what-would-you-do.md)
 * Describe how you would create a simple slideshow page.
 * If you could master one technology this year, what would it be?
 * Explain the importance of standards and standards bodies.
