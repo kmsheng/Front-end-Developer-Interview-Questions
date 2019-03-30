@@ -22,7 +22,7 @@ permalink: /questions/general-questions/index.html
 * [Name 3 ways to decrease page load (perceived or actual load time).](../answers/Answers-To-General-Questions/15-Name-3-ways-to-decrease-page-load-perceived-or-actual-load-time.md)
 * [If you jumped on a project and they used tabs and you used spaces, what would you do?](../answers/Answers-To-General-Questions/16-If-you-jumped-on-a-project-and-they-used-tabs-and-you-used-spaces-what-would-you-do.md)
 * [Describe how you would create a simple slideshow page.](../answers/Answers-To-General-Questions/17-Describe-how-you-would-create-a-simple-slideshow-page.md)
-* If you could master one technology this year, what would it be?
+* [If you could master one technology this year, what would it be?](../answers/Answers-To-General-Questions/18-If-you-could-master-one-technology-this-year-what-would-it-be.md)
 * Explain the importance of standards and standards bodies.
 * What is Flash of Unstyled Content? How do you avoid FOUC?
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
