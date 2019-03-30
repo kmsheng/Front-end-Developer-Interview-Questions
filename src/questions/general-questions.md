@@ -16,7 +16,7 @@ permalink: /questions/general-questions/index.html
 * [Can you describe your workflow when you create a web page?](../answers/Answers-To-General-Questions/10-Can-you-describe-your-workflow-when-you-create-a-web-page.md)
 * [If you have 5 different stylesheets, how would you best integrate them into the site?](../answers/Answers-To-General-Questions/11-If-you-have-5-different-stylesheets-how-would-you-best-integrate-them-into-the-site.md)
 * [Can you describe the difference between progressive enhancement and graceful degradation?](../answers/Answers-To-General-Questions/12-Can-you-describe-the-difference-between-progressive-enhancement-and-graceful-degradation.md)
-* How would you optimize a website's assets/resources?
+* [How would you optimize a website's assets/resources?](../answers/Answers-To-General-Questions/13-How-would-you-optimize-a-websites-assetsresources.md)
 * How many resources will a browser download from a given domain at a time?
   * What are the exceptions?
 * Name 3 ways to decrease page load (perceived or actual load time).
