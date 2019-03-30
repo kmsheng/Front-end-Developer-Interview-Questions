@@ -12,8 +12,8 @@ I would have the following HTML, a div wraps many images.
 And use `animation` with `animation-delay` to switch each slide.
 ```scss
 $slides: 2;
-$time_per_slide: 4;
-$total_animation_time: $time_per_slide * $slides;
+$time-per-slide: 4;
+$total-animation-time: $time-per-slide * $slides;
 
 @keyframes switch {   
   25% {
@@ -29,13 +29,13 @@ $total_animation_time: $time_per_slide * $slides;
 }
 .slide {
   position: absolute;
-  animation: switch #{$total_animation_time}s infinite;
+  animation: switch #{$total-animation-time}s infinite;
   opacity: 0;
 }
 
 @for $index from 1 to $slides + 1 {
   img:nth-child(#{$index}) {
-    animation-delay: #{$total_animation_time - ($time_per_slide * $index)}s;
+    animation-delay: #{$total-animation-time - ($time-per-slide * $index)}s;
   }
 }
 ```
