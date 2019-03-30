@@ -1,6 +1,41 @@
 # Describe how you would create a simple slideshow page.
-There are two approaches to do this. 
+I would have the following HTML, a div wraps many images.
 
-One is to use JavaScript to control image's `display` property or `transform` property.
+```html
+<div class="slideshow">
+  <img class="slide" src="url" alt="slide" />
+  <img class="slide" src="url" alt="slide" />
+  <img class="slide" src="url" alt="slide" />
+</div>
+```
 
-The other one is to use pure CSS with html `input` tags to create a slider. Pure CSS slider has better performance but worse maintainability ( need to add inputs and css rules based on number of slides).
+And use `animation` with `animation-delay` to switch each slide.
+```scss
+$slides: 2;
+$time_per_slide: 4;
+$total_animation_time: $time_per_slide * $slides;
+
+@keyframes switch {   
+  25% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 0;
+  }
+} 
+
+.slideshow {
+  position: relative;
+}
+.slide {
+  position: absolute;
+  animation: switch #{$total_animation_time}s infinite;
+  opacity: 0;
+}
+
+@for $index from 1 to $slides + 1 {
+  img:nth-child(#{$index}) {
+    animation-delay: #{$total_animation_time - ($time_per_slide * $index)}s;
+  }
+}
+```
