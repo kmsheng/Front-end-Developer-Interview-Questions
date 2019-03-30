@@ -23,7 +23,7 @@ permalink: /questions/general-questions/index.html
 * [If you jumped on a project and they used tabs and you used spaces, what would you do?](../answers/Answers-To-General-Questions/16-If-you-jumped-on-a-project-and-they-used-tabs-and-you-used-spaces-what-would-you-do.md)
 * [Describe how you would create a simple slideshow page.](../answers/Answers-To-General-Questions/17-Describe-how-you-would-create-a-simple-slideshow-page.md)
 * [If you could master one technology this year, what would it be?](../answers/Answers-To-General-Questions/18-If-you-could-master-one-technology-this-year-what-would-it-be.md)
-* Explain the importance of standards and standards bodies.
+* [Explain the importance of standards and standards bodies.](../answers/Answers-To-General-Questions/19-Explain-the-importance-of-standards-and-standards-bodies.md)
 * What is Flash of Unstyled Content? How do you avoid FOUC?
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
