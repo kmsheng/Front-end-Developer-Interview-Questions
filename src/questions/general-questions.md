@@ -25,7 +25,7 @@ permalink: /questions/general-questions/index.html
 * [If you could master one technology this year, what would it be?](../answers/Answers-To-General-Questions/18-If-you-could-master-one-technology-this-year-what-would-it-be.md)
 * [Explain the importance of standards and standards bodies.](../answers/Answers-To-General-Questions/19-Explain-the-importance-of-standards-and-standards-bodies.md)
 * [What is Flash of Unstyled Content? How do you avoid FOUC?](../answers/Answers-To-General-Questions/20-What-is-Flash-of-Unstyled-Content-How-do-you-avoid-FOUC.md)
-* Explain what ARIA and screenreaders are, and how to make a website accessible.
+* [Explain what ARIA and screenreaders are, and how to make a website accessible.](../answers/Answers-To-General-Questions/21-Explain-what-ARIA-and-screenreaders-are-and-how-to-make-a-website-accessible.md)
 * Explain some of the pros and cons for CSS animations versus JavaScript animations.
 * What does CORS stand for and what issue does it address?
 * How did you handle a disagreement with your boss or your collaborator?
