@@ -17,8 +17,8 @@ permalink: /questions/general-questions/index.html
 * [If you have 5 different stylesheets, how would you best integrate them into the site?](../answers/Answers-To-General-Questions/11-If-you-have-5-different-stylesheets-how-would-you-best-integrate-them-into-the-site.md)
 * [Can you describe the difference between progressive enhancement and graceful degradation?](../answers/Answers-To-General-Questions/12-Can-you-describe-the-difference-between-progressive-enhancement-and-graceful-degradation.md)
 * [How would you optimize a website's assets/resources?](../answers/Answers-To-General-Questions/13-How-would-you-optimize-a-websites-assetsresources.md)
-* How many resources will a browser download from a given domain at a time?
-  * What are the exceptions?
+* [How many resources will a browser download from a given domain at a time?](../answers/Answers-To-General-Questions/14-How-many-resources-will-a-browser-download-from-a-given-domain-at-a-time.md)
+  * [What are the exceptions?](../answers/Answers-To-General-Questions/14-How-many-resources-will-a-browser-download-from-a-given-domain-at-a-time.md)
 * Name 3 ways to decrease page load (perceived or actual load time).
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
 * Describe how you would create a simple slideshow page.
