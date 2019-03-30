@@ -22,3 +22,4 @@ that is displayed on the computer screen with a screen synthesizer or brallie di
 ### References
  - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
  - http://www.afb.org/prodBrowseCatResults.aspx?CatID=49
+ - https://www.dreamhost.com/blog/make-your-website-accessible/
