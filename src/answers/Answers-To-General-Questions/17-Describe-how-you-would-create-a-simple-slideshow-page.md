@@ -11,7 +11,7 @@ I would have the following HTML, a div wraps many images.
 
 And use `animation` with `animation-delay` to switch each slide.
 ```scss
-$slides: 2;
+$slides: 3;
 $time-per-slide: 4;
 $total-animation-time: $time-per-slide * $slides;
 
