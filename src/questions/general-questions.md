@@ -27,6 +27,6 @@ permalink: /questions/general-questions/index.html
 * [What is Flash of Unstyled Content? How do you avoid FOUC?](../answers/Answers-To-General-Questions/20-What-is-Flash-of-Unstyled-Content-How-do-you-avoid-FOUC.md)
 * [Explain what ARIA and screenreaders are, and how to make a website accessible.](../answers/Answers-To-General-Questions/21-Explain-what-ARIA-and-screenreaders-are-and-how-to-make-a-website-accessible.md)
 * [Explain some of the pros and cons for CSS animations versus JavaScript animations.](../answers/Answers-To-General-Questions/22-Explain-some-of-the-pros-and-cons-for-CSS-animations-versus-JavaScript-animations.md)
-* What does CORS stand for and what issue does it address?
+* [What does CORS stand for and what issue does it address?](../answers/Answers-To-General-Questions/23-What-does-CORS-stand-for-and-what-issue-does-it-address.md)
 * How did you handle a disagreement with your boss or your collaborator?
 * What resources do you use to learn about the latest in front end development and design?
