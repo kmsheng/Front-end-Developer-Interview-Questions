@@ -11,7 +11,6 @@ PROS
   - Unable to control significantly.
   - Need to be careful with the properties that you are going to animate. In other words, to avoid layout triggering possibly.
   
-  
   ## JavaScript animations
   PROS
    - Able to control animation significantly.
@@ -20,7 +19,6 @@ PROS
    - Wrose frame rates.
    - More complicated than writing CSS animations.
    
-   
    ### References
-    - https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript
-    - https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance#css-vs-javascript-performance
+   - https://developers.google.com/web/fundamentals/design-and-ux/animations/css-vs-javascript
+   - https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance#css-vs-javascript-performance
